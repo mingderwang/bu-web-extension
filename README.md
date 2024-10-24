@@ -1,5 +1,8 @@
 # bu
 
+* refer to
+[https://parceljs.org/recipes/web-extension/](https://parceljs.org/recipes/web-extension/)
+
 To install dependencies:
 
 ```bash
