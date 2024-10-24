@@ -1,5 +1,7 @@
 {
-  "name": "bu",
+  "name": "bu-web-extension",
+  "version": "0.0.1",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "start": "parcel watch src/manifest.json --host localhost --config @parcel/config-webextension",
